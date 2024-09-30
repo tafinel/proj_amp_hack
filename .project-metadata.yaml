@@ -3,7 +3,7 @@ description: Short description of what the AMP does.
 author: Your name or company name here
 specification_version: 1.0
 prototype_version: 1.0
-date: "YYYY-MM-DD"
+date: "2024-09-01"
 
 environment_variables:
   RANDOM_VARIABLE_NAME:
@@ -36,7 +36,7 @@ tasks:
     arguments: None
     cpu: 1
     memory: 4
-    short_summary: Create job to install project dependencies.
+    short_summary: Create job to create a sample dataset.
     environment:
       TASK_TYPE: CREATE/RUN_JOB
 
