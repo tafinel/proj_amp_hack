@@ -3,7 +3,7 @@ description: Short description of what the AMP does.
 author: Your name or company name here
 specification_version: 1.0
 prototype_version: 1.0
-date: "2024-09-01"
+date: "YYYY-09-01"
 
 environment_variables:
   RANDOM_VARIABLE_NAME:
